@@ -1,4 +1,4 @@
-baseURL = "http://tfinney.net/"
+baseURL = "https://tjfinney-messages.netlify.com/"
 languageCode = "en-us"
 title = "Messages"
 theme = "ananke"
