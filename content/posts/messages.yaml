@@ -1,0 +1,15 @@
+---
+references:
+- id: gingrich1965
+  type: book
+  title: Shorter Lexicon of the Greek New Testament
+  publisher: University Of Chicago Press
+  source: Amazon
+  language: English
+  editor:
+    - family: Gingrich
+      given: F. Wilbur
+  issued:
+    - year: 1965
+  publisher-place: Chicago
+...
