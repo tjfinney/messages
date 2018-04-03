@@ -12,4 +12,29 @@ references:
   issued:
     - year: 1965
   publisher-place: Chicago
+
+- id: stevenson1987
+  type: book
+  title: A New Eusebius
+  publisher: SPCK
+  number-of-pages: '432'
+  edition: Revised edition
+  source: Amazon
+  abstract: >-
+    A source book for students of the patristic period and a companion volume to
+    "Creeds, Councils and Controversies" and "Doctrine and Practice in the Early
+    Church" This updated edition incorporates vital documents that were not
+    available when the original collection was compiled.
+  ISBN: 978-0-281-04268-5
+  language: English
+  editor:
+    - family: Stevenson
+      given: J.
+    - family: Frend
+      given: W. H. C.
+  issued:
+    - year: 1987
+      month: 6
+      day: 1
+  publisher-place: London
 ...
