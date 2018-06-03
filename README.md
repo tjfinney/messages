@@ -14,7 +14,7 @@ This is a collection of messages I've written. The messages are written in Markd
 3. Navigate to [http://localhost:1313/](http://localhost:1313/) with your browser
 4. Edit the doc and see what it looks like in the browser.
 
-To see the result, commit then push to GitHub:
+To see the result, commit, push to GitHub, then browse to Netlify:
 
 1. `git add *`
 2. `git commit -m "foo"`
