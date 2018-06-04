@@ -37,4 +37,19 @@ references:
       month: 6
       day: 1
   publisher-place: London
+
+- id: tnt1973
+  type: book
+  title: Translator's New Testament
+  publisher: British and Foreign Bible Society
+  number-of-pages: '582'
+  source: Amazon
+  ISBN: 978-0-564-04991-2
+  language: 'Greek, English'
+  author:
+    - literal: TNT
+  issued:
+    - year: 1973
+  publisher-place: London
+  title-short: New Testament
 ...
