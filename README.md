@@ -1,6 +1,6 @@
 ---
 title: "README"
-author: "Timothy J. Finney"
+author: "TJF"
 date: "2018"
 output: html_document
 ---
@@ -9,15 +9,15 @@ This is a collection of messages I've written. The messages are written in Markd
 
 ## Typical workflow
 
-1. Create a new MarkDown doc in `content/posts` (possibly by duplicating an existing one)
-2. Run hugo server (`hugo server`)
-3. Navigate to [http://localhost:1313/](http://localhost:1313/) with your browser
+1. Create a new MarkDown doc in `/home/tjf2n/Keep/www/etij.net/Tim/Messages/content/posts` (can duplicate an existing one)
+2. Issue command `hugo server` from `/home/tjf2n/Keep/www/etij.net/Tim/Messages` (as it contains `config.toml`)
+3. Navigate to [http://localhost:1313/](http://localhost:1313/) with a browser
 4. Edit the doc and see what it looks like in the browser.
 
-To see the result, commit, push to GitHub, then browse to Netlify:
+To publish the result, commit, push to GitHub, then browse to Netlify:
 
 1. `git add *`
-2. `git commit -m "foo"`
+2. `git commit -m "..."`
 3. `git push`
 4. Browse to [https://tjfinney-messages.netlify.com/](https://tjfinney-messages.netlify.com/).
 
