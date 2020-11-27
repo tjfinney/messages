@@ -164,6 +164,12 @@
   </url>
   
   <url>
+    <loc>https://tjfinney-messages.netlify.com/posts/2020-11-30/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://tjfinney-messages.netlify.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
