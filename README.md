@@ -21,6 +21,10 @@ To publish the result, commit, push to GitHub, then browse to Netlify:
 3. `git push`
 4. Browse to [https://tjfinney-messages.netlify.com/](https://tjfinney-messages.netlify.com/).
 
+## Images
+
+Use the full path to an image if using *Preview*. E.g. `![An old synagogue in Capernaum](/home/tjf2n/Keep/www/etij.net/Tim/Messages/static/images/Capernaum.jpg)`. A short path is used in production. E.g. `![An old synagogue in Capernaum](/images/Capernaum.jpg)`.
+
 ## References
 
 To get references to work, click "Preview" in RStudio then push to Github.
