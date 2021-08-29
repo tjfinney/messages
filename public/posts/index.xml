@@ -6,10 +6,64 @@
     <description>Recent content in Posts on Messages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tjfinney-messages.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Lord&#39;s Prayer</title>
+      <link>https://tjfinney-messages.netlify.com/posts/2021-08-29/</link>
+      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tjfinney-messages.netlify.com/posts/2021-08-29/</guid>
+      <description>Today we are going to abandon the usual lectionary reading (which is from Mark&amp;rsquo;s Gospel) and instead look at Matthew&amp;rsquo;s Gospel. That&amp;rsquo;s because we have been hearing about the bread of heaven over the last few weeks, which inspired me to talk about the Lord&amp;rsquo;s Prayer.
+A bit missing? The Lord&amp;rsquo;s Prayer may well be the best known piece of scripture in the Universe, but what does it actually say?</description>
+    </item>
+    
+    <item>
+      <title>Atomic grace</title>
+      <link>https://tjfinney-messages.netlify.com/posts/2021-02-14/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tjfinney-messages.netlify.com/posts/2021-02-14/</guid>
+      <description>For Phoebe, who encouraged me to write this down.
+And you shall eat and be satisfied, and bless the LORD your God for the good land which he has given you.
+Deuteronomy 8.10
+For these and all thy mercies, Lord make us truly thankful.
+Thank you for this food, and for the hands that prepared it. Thank you for the people who worked to give us this food. Thank you for the tractors they drove and the farms they ploughed.</description>
+    </item>
+    
+    <item>
+      <title>Lifted up</title>
+      <link>https://tjfinney-messages.netlify.com/posts/2021-05-30/</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tjfinney-messages.netlify.com/posts/2021-05-30/</guid>
+      <description>Today is Trinity Sunday, and we will be looking at the part of John&amp;rsquo;s Gospel that talks about one night when a man named Nicodemus went to talk to Jesus. The part is chapter 3, verses 1 to 17, which includes those famous words:
+ For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s this?</title>
+      <link>https://tjfinney-messages.netlify.com/posts/2021-01-31/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tjfinney-messages.netlify.com/posts/2021-01-31/</guid>
+      <description>A deep impression Today&amp;rsquo;s lectionary reading from Mark talks about what happened when Jesus went to church one day. He caused a bit of a stir.
+ They went as far as Capernaum, and as soon as the sabbath came he went to the synagogue and began to teach. And his teaching made a deep impression on them because, unlike the scribes, he taught them with authority.
+ [Mark 1.</description>
+    </item>
+    
+    <item>
+      <title>For those who trust him</title>
+      <link>https://tjfinney-messages.netlify.com/posts/2020-11-29/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tjfinney-messages.netlify.com/posts/2020-11-29/</guid>
+      <description>Isaiah 64 Today&amp;rsquo;s reading is from Isaiah chapter 64:
+Oh that you would tear the heavens open and come down --at your Presence the mountains would melt, as fire sets brushwood alight, as fire causes water to boil-- to make known your name to your enemies, and make the nations tremble at your Presence, working unexpected miracles such as no one has ever heard of before. No ear has heard, no eye has seen any god act like this for those who trust him.</description>
+    </item>
     
     <item>
       <title>The Sign of Jonah</title>
@@ -249,15 +303,6 @@ Today&amp;rsquo;s message is called “Things I have found out about God,” and
       <guid>https://tjfinney-messages.netlify.com/posts/2006-08-15/</guid>
       <description>Introduction  &amp;hellip; on this rock I will build my church. — Jesus Christ [Matt 16.18]
  The church is not a building but a Christian community built on the foundation of faith in Jesus Christ. In other words, it is a community of people who are convinced that Jesus Christ is the Messiah, the Son of the living God. A great deal of Christ&amp;rsquo;s teaching only makes sense in a community context.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://tjfinney-messages.netlify.com/posts/2020-11-30/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tjfinney-messages.netlify.com/posts/2020-11-30/</guid>
-      <description>For those who trust him // Pandoc 2.9 adds attributes on both header and div. We remove the former (to // be compatible with the behavior of Pandoc :first-child&#34;); var i, h, a; for (i = 0; i 0) h.removeAttribute(a[0].name); } });  /*! jQuery v1.11.3 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */ !function(a,b){&#34;object&#34;==typeof module&amp;&amp;&#34;object&#34;==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(&#34;jQuery requires a window with a document&#34;);return b(a)}:b(a)}(&#34;undefined&#34;!=typeof window?</description>
     </item>
     
   </channel>
