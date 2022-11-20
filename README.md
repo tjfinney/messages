@@ -9,8 +9,8 @@ This is a collection of messages I've written. The messages are written in Markd
 
 ## Typical workflow
 
-1. Create a new MarkDown doc in `/home/tjf2n/Keep/www/etij.net/Tim/Messages/content/posts` (can duplicate an existing one)
-2. Issue command `hugo server -F` from `/home/tjf2n/Keep/www/etij.net/Tim/Messages` (as it contains `config.toml`; "F" flag builds future-dated posts)
+1. Create a new MarkDown doc in `/home/tjf2n/Keep/www/etij.net/tim/Messages/content/posts` (can duplicate an existing one)
+2. Issue command `hugo server -F` from `/home/tjf2n/Keep/www/etij.net/tim/Messages` (as it contains `config.toml`; "F" flag builds future-dated posts)
 3. Navigate to [http://localhost:1313/](http://localhost:1313/) with a browser
 4. Edit the doc and see what it looks like in the browser.
 
